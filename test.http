@@ -1,0 +1,49 @@
+### Get all users
+GET http://localhost:5096/users
+Accept: application/json
+X-Api-Key: thesecretkey
+
+### Get user by ID
+GET http://localhost:5096/users/1
+Accept: application/json
+X-Api-Key: thesecretkey
+
+### Create a new user
+POST http://localhost:5096/users
+Content-Type: application/json
+X-Api-Key: thesecretkey
+
+{
+  "userName": "Alice",
+  "userAge": 20
+}
+
+### Update a user
+PUT http://localhost:5096/users/1
+Content-Type: application/json
+X-Api-Key: thesecretkey
+
+{
+  "userName": "Alice Updated",
+  "userAge": 31
+}
+
+### Delete a user
+DELETE http://localhost:5096/users/1
+X-Api-Key: thesecretkey
+
+
+### This will throw an error because the API key is missing
+GET http://localhost:5096/users
+Accept: application/json
+
+
+### This will throw an error because UserAge is invalid (negative)
+POST http://localhost:5096/users
+Content-Type: application/json
+X-Api-Key: thesecretkey
+
+{
+  "userName": "Donald",
+  "userAge": -10
+}
