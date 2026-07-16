@@ -2,6 +2,8 @@ For Cousera course: Back-End Development with .NET
 
 Project: Build A Simple API with Copilot - For Cousera course: Back-End Development with .NET
 
+***** USE test.http to test this API *****
+
 1. Create a GitHub repository for the project
 
 2. Add CRUD endpoints for managing users like GET, POST, PUT, and DELETE
