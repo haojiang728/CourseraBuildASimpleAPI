@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "25oHctHmrdo=",
+  "dgSpecHash": "G+OsJ80++kw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\hao_j\\source\\Coursera\\UserManagementAPI\\UserManagementAPI\\UserManagementAPI.csproj",
+  "projectFilePath": "C:\\Users\\hao_j\\source\\Coursera\\UserManagementAPI\\UserManagementApi\\UserManagementAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hao_j\\.nuget\\packages\\microsoft.extensions.apidescription.server\\10.0.0\\microsoft.extensions.apidescription.server.10.0.0.nupkg.sha512",
     "C:\\Users\\hao_j\\.nuget\\packages\\microsoft.openapi\\2.7.5\\microsoft.openapi.2.7.5.nupkg.sha512",

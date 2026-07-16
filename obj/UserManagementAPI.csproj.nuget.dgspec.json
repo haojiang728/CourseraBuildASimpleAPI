@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hao_j\\source\\Coursera\\UserManagementAPI\\UserManagementAPI\\UserManagementAPI.csproj": {}
+    "C:\\Users\\hao_j\\source\\Coursera\\UserManagementAPI\\UserManagementApi\\UserManagementAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hao_j\\source\\Coursera\\UserManagementAPI\\UserManagementAPI\\UserManagementAPI.csproj": {
+    "C:\\Users\\hao_j\\source\\Coursera\\UserManagementAPI\\UserManagementApi\\UserManagementAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hao_j\\source\\Coursera\\UserManagementAPI\\UserManagementAPI\\UserManagementAPI.csproj",
+        "projectUniqueName": "C:\\Users\\hao_j\\source\\Coursera\\UserManagementAPI\\UserManagementApi\\UserManagementAPI.csproj",
         "projectName": "UserManagementAPI",
-        "projectPath": "C:\\Users\\hao_j\\source\\Coursera\\UserManagementAPI\\UserManagementAPI\\UserManagementAPI.csproj",
+        "projectPath": "C:\\Users\\hao_j\\source\\Coursera\\UserManagementAPI\\UserManagementApi\\UserManagementAPI.csproj",
         "packagesPath": "C:\\Users\\hao_j\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hao_j\\source\\Coursera\\UserManagementAPI\\UserManagementAPI\\obj\\",
+        "outputPath": "C:\\Users\\hao_j\\source\\Coursera\\UserManagementAPI\\UserManagementApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

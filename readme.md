@@ -12,4 +12,4 @@ Project: Build A Simple API with Copilot - For Cousera course: Back-End Developm
 
 5. Implement middleware into the project
    - Add logging middleware
-   - Add authentication middleware?
+   - Add authentication middleware

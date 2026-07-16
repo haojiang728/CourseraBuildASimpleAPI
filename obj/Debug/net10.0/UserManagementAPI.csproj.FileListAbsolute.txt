@@ -33,3 +33,4 @@ C:\Users\hao_j\source\Coursera\UserManagementAPI\UserManagementAPI\obj\Debug\net
 C:\Users\hao_j\source\Coursera\UserManagementAPI\UserManagementAPI\obj\Debug\net10.0\UserManagementAPI.pdb
 C:\Users\hao_j\source\Coursera\UserManagementAPI\UserManagementAPI\obj\Debug\net10.0\UserManagementAPI.genruntimeconfig.cache
 C:\Users\hao_j\source\Coursera\UserManagementAPI\UserManagementAPI\obj\Debug\net10.0\ref\UserManagementAPI.dll
+C:\Users\hao_j\source\Coursera\UserManagementAPI\UserManagementApi\obj\Debug\net10.0\UserManagementAPI.sourcelink.json
